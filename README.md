@@ -1,8 +1,8 @@
-### Hi 👋, I'm Talha Jabbar
+## Hi 👋, I'm Talha Jabbar
 
-### Skills
+## Skills
 
-## Programming Languages
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)
 
 

@@ -10,12 +10,15 @@
 
 #### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)]()
 
 #### Skills
 
 ##### Programming Languages 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp)]()
+[![My Skills](https://skillicons.dev/icons?i=cs)]()
+[![My Skills](https://skillicons.dev/icons?i=js)]()
+[![My Skills](https://skillicons.dev/icons?i=py)]()
+[![My Skills](https://skillicons.dev/icons?i=php)]()
 
 ##### Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)]()

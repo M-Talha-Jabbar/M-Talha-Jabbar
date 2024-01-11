@@ -20,8 +20,6 @@
 ##### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Talha-Jabbar&show_icons=true&theme=radical)
-
 
 <!--
 **M-Talha-Jabbar/M-Talha-Jabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

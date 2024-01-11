@@ -18,27 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)](https://skillicons.dev)
 
 
-### Programming Languages
-| [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev) |
-| --- |
-
-### Backend Technologies
---- [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)](https://skillicons.dev) |
-| --- |
-
-### Frontend Technologies
-| [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)](https://skillicons.dev) |
-| --- |
-
-### Databases
-| [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) |
-| --- |
-
-### Tools
-| [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)](https://skillicons.dev) |
-| --- |
-
-
 <!--
 **M-Talha-Jabbar/M-Talha-Jabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

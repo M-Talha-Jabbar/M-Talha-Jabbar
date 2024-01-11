@@ -29,10 +29,18 @@
 [![My Skills](https://skillicons.dev/icons?i=docker)]()
 
 ##### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)]()
+[![My Skills](https://skillicons.dev/icons?i=html)]()
+[![My Skills](https://skillicons.dev/icons?i=css)]()
+[![My Skills](https://skillicons.dev/icons?i=react)]()
+[![My Skills](https://skillicons.dev/icons?i=redux)]()
 
 ##### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=mongoDB)]()
 
 ##### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)]()
+[![My Skills](https://skillicons.dev/icons?i=git)]()
+[![My Skills](https://skillicons.dev/icons?i=github)]()
+[![My Skills](https://skillicons.dev/icons?i=heroku)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=postman)]()

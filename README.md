@@ -8,6 +8,9 @@
 ### Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq)](https://skillicons.dev)
 
+### Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)](https://skillicons.dev)
+
 
 
 <!--

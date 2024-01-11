@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
-<h3 align="center">Connect with me</h3>
+#### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
 
-<h3 align="center">Skills</h3>
+#### Skills
 
 ##### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)]()

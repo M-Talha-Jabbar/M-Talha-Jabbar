@@ -29,18 +29,18 @@
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 ##### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html)]()
-[![My Skills](https://skillicons.dev/icons?i=css)]()
-[![My Skills](https://skillicons.dev/icons?i=react)]()
-[![My Skills](https://skillicons.dev/icons?i=redux)]()
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 
 ##### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql)]()
-[![My Skills](https://skillicons.dev/icons?i=mongoDB)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongoDB)](https://www.mongodb.com/)
 
 ##### Tools
-[![My Skills](https://skillicons.dev/icons?i=git)]()
-[![My Skills](https://skillicons.dev/icons?i=github)]()
-[![My Skills](https://skillicons.dev/icons?i=heroku)]()
-[![My Skills](https://skillicons.dev/icons?i=vscode)]()
-[![My Skills](https://skillicons.dev/icons?i=postman)]()
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/M-Talha-Jabbar)
+[![My Skills](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)

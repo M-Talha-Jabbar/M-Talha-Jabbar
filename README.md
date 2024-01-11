@@ -6,19 +6,19 @@
 #### Skills
 
 ##### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)]()
 
 ##### Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)]()
 
 ##### Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)]()
 
 ##### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
 ##### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)]()
 
 
 <!--

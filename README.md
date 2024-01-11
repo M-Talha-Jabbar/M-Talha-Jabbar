@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Talha Jabbar 
 
 ## Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]
 
 ## Skills
 

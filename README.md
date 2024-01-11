@@ -23,7 +23,7 @@
 | --- |
 
 ### Backend Technologies
-| [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)](https://skillicons.dev) |
+--- [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)](https://skillicons.dev) |
 | --- |
 
 ### Frontend Technologies

@@ -1,5 +1,11 @@
 ### Hi 👋, I'm Talha Jabbar
 
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="(https://github.com/M-Talha-Jabbar/M-Talha-Jabbar/assets/76180043/8e3ab399-7151-46bc-9eb7-b8bd11ddbd17"/>
+</a>
+
+
+
 <!--
 **M-Talha-Jabbar/M-Talha-Jabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 ### Skills
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py, php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)
 
 
 

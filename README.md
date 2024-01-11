@@ -1,10 +1,9 @@
-## Hi 👋, I'm Talha Jabbar [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+## Hi 👋, I'm Talha Jabbar 
 
 ## Connect with me
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)

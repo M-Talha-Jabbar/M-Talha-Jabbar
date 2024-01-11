@@ -21,7 +21,12 @@
 [![My Skills](https://skillicons.dev/icons?i=php)]()
 
 ##### Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)]()
+[![My Skills](https://skillicons.dev/icons?i=dotnet)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=express)]()
+[![My Skills](https://skillicons.dev/icons?i=redis)]()
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
+[![My Skills](https://skillicons.dev/icons?i=docker)]()
 
 ##### Frontend Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)]()

@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Talha Jabbar
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="![image](https://github.com/M-Talha-Jabbar/M-Talha-Jabbar/assets/76180043/8e3ab399-7151-46bc-9eb7-b8bd11ddbd17)"/>
-</a>
+![image](https://github.com/M-Talha-Jabbar/M-Talha-Jabbar/assets/76180043/2502ac0f-ce0d-402d-8d37-c5492fee11e2)
+
 
 
 <!--

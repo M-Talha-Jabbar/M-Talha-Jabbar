@@ -1,6 +1,6 @@
 ### Hey, I'm Talha Jabbar 👋
 <p align="center">
-  <b>Hi 👋, I'm Talha Jabbar</b>
+  <h3>Hi 👋, I'm Talha Jabbar</h3>
 </p>
 
 #### Connect with me

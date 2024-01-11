@@ -1,23 +1,23 @@
-## Hi 👋, I'm Talha Jabbar 
+### Hi 👋, I'm Talha Jabbar 
 
-## Connect with me
+#### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
 
-## Skills
+#### Skills
 
-### Programming Languages
+##### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)
 
-### Backend Technologies
+##### Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq,docker)](https://skillicons.dev)
 
-### Frontend Technologies
+##### Frontend Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux)](https://skillicons.dev)
 
-### Databases
+##### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### Tools
+##### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)](https://skillicons.dev)
 
 

@@ -10,6 +10,7 @@
 
 #### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)]()
 
 #### Skills
 

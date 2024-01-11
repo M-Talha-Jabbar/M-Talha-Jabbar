@@ -1,4 +1,7 @@
 ### Hey, I'm Talha Jabbar 👋
+<p align="center">
+  <b>Hi 👋, I'm Talha Jabbar</b>
+</p>
 
 #### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)

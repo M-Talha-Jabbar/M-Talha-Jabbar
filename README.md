@@ -36,7 +36,7 @@
 
 ##### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=mongoDB)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 ##### Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)

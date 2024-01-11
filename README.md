@@ -5,6 +5,9 @@
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py,php)](https://skillicons.dev)
 
+### Backend Technologies
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,redis,rabbitmq)](https://skillicons.dev)
+
 
 
 <!--

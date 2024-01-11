@@ -1,5 +1,19 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
+#### About me
+- 🔭 I’m currently pursuing MS in Computer Software Engineering at Texas Tech University.
+<!--
+- 🌱 I’m currently learning Backend & 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-->
+- 💬 Ask me about any tech-related stuff.
+- 📫 How to reach me: muhammadtalha61940@gmail.com or mujabbar@ttu.edu
+- 😄 Pronouns: He/His
+<!--
+- ⚡ Fun fact: ...
+-->
+
 #### Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
 
@@ -19,19 +33,3 @@
 
 ##### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,heroku,vscode,postman)]()
-
-
-<!--
-**M-Talha-Jabbar/M-Talha-Jabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

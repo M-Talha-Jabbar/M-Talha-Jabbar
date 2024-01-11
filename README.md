@@ -15,18 +15,18 @@
 
 ##### Programming Languages 
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()
-[![My Skills](https://skillicons.dev/icons?i=cs)]()
-[![My Skills](https://skillicons.dev/icons?i=js)]()
-[![My Skills](https://skillicons.dev/icons?i=py)]()
-[![My Skills](https://skillicons.dev/icons?i=php)]()
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 
 ##### Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet)]()
-[![My Skills](https://skillicons.dev/icons?i=nodejs)]()
-[![My Skills](https://skillicons.dev/icons?i=express)]()
-[![My Skills](https://skillicons.dev/icons?i=redis)]()
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq)]()
-[![My Skills](https://skillicons.dev/icons?i=docker)]()
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 ##### Frontend Technologies
 [![My Skills](https://skillicons.dev/icons?i=html)]()

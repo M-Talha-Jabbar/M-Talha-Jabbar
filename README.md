@@ -1,6 +1,9 @@
 ### Hi 👋, I'm Talha Jabbar
 
-![image](https://github.com/M-Talha-Jabbar/M-Talha-Jabbar/assets/76180043/2502ac0f-ce0d-402d-8d37-c5492fee11e2)
+### Skills
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,py, php)](https://skillicons.dev)
 
 
 

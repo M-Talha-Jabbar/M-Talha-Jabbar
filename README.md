@@ -2,9 +2,7 @@
 
 #### About me
 - 🔭 I’m currently pursuing MS in Computer Software Engineering at Texas Tech University.
-- 🌱 I’m currently learning and exploring new technologies.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+- 🌱 Seeking new opportunities to enhance my skills, contribute to innovative projects, and grow as a Software Engineer.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: muhammadtalha61940@gmail.com or mujabbar@ttu.edu
 - 😄 Pronouns: He/His

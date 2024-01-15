@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
-#### About me
+#### 👨🏻‍💻 About me
 - 🔭 I’m currently pursuing MS in Computer Software Engineering at Texas Tech University.
 - 🌱 Seeking new opportunities to enhance my skills, contribute to innovative projects, and grow as a Software Engineer.
 - 💬 Ask me about any tech-related stuff.

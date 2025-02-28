@@ -14,7 +14,6 @@
 #### Skills
 
 ##### Programming Languages 
-C#, JavaScript, Python, C++
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)

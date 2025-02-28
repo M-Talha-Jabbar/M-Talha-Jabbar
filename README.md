@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
-#### 👨🏻‍💻 About me
+### 👨🏻‍💻 About me
 Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains.
 
 <!-- - ⚡ Fun fact: ... -->
 
-#### Socials
+###=# Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
 
-#### Skills
+### Skills
 
 ##### Programming Languages 
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)

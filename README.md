@@ -1,14 +1,11 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 #### 👨🏻‍💻 About me
-- 🔭 I’m currently pursuing MS in Computer Software Engineering at Texas Tech University.
-- 🌱 Seeking new opportunities to enhance my skills, contribute to innovative projects, and grow as a Software Engineer.
-- 💬 Ask me about any tech-related stuff.
-- 📫 How to reach me: muhammadtalha61940@gmail.com or mujabbar@ttu.edu
-- 😄 Pronouns: He/His
+Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains.
+
 <!-- - ⚡ Fun fact: ... -->
 
-#### Connect with me
+#### Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
 
 #### Skills

@@ -24,6 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=dark&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)

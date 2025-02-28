@@ -17,7 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 
 ##### Backend Technologies & Databases
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)

@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer+|+Backend+Developer;Building+Scalable+and+Efficient+Systems;Passionate+about+APIs,+Microservices,+and+Cloud">
+</p>
+
 ## 👨🏻‍💻 About Me  
 Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **backend engineering, API development, and distributed systems**.  
 
@@ -15,8 +19,7 @@ Software Engineer with **3 years of experience** in building **scalable solution
 ## 📩 Get in Touch  
 <p align="left">
   <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
-  <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>  
-  <a href="https://github.com/M-Talha-Jabbar"><img src="https://skillicons.dev/icons?i=github" height="40"></a>  
+  <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
 </p>
 
 ### Skills

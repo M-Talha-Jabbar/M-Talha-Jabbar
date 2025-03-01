@@ -1,23 +1,23 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. 
+Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **backend engineering, API development, and distributed systems**.  
 
 ### 📚 Education  
-- 🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  
-- 🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022)*  
+🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  
+🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022)*  
 
 ### 🏢 Work Experience  
-- 💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
-- 💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
-- 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)* 
+💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
+💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
+💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)*  
 
-### 📩 Let’s Connect  
-📧 muhammadtalha61940@gmail.com | mujabbar@ttu.edu 
-
-### Get in Touch
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark&perline=15)](mailto:muhammadtalha61940@gmail.com)
+## 📩 Get in Touch  
+<p align="left">
+  <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
+  <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>  
+  <a href="https://github.com/M-Talha-Jabbar"><img src="https://skillicons.dev/icons?i=github" height="40"></a>  
+</p>
 
 ### Skills
 

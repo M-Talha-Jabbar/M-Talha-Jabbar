@@ -18,7 +18,7 @@
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
 💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
 
-## 📧 Get in Touch  
+## ✉️ Get in Touch  
 <p align="left">
   <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
   <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40"> 
 </p>
 
-## 🔧 Industry Knowledge  
+## 🧠 Industry Knowledge  
 - **Object-Oriented Programming (OOP)**  
 - **Multithreaded Programming**  
 - **Microservices**  

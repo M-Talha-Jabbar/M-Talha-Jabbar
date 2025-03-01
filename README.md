@@ -5,7 +5,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **backend engineering, API development, and distributed systems**.  
+Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **Parallel & Distributed Systems, System Design, and Full-Stack Development**.  
 
 ### 📚 Education  
 🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  

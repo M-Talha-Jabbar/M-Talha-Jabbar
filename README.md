@@ -64,3 +64,12 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40"> 
   <img src="https://skillicons.dev/icons?i=postman" height="40"> 
 </p>
+
+## 🔧 Industry Knowledge  
+- **Object-Oriented Programming (OOP)**  
+- **Multithreaded Programming**  
+- **Microservices**  
+- **Software Design Patterns**  
+- **RESTful APIs**  
+- **Message Queues**  
+- **Agile Methodologies**  

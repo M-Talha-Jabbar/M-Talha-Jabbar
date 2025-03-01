@@ -26,16 +26,16 @@ Software Engineer with **3 years of experience** in building **scalable solution
 
 ## 🚀 Skills
 
-### **Programming Languages**  
-<p align="left">
+### Programming Languages
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 10px;"> <b>C#</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 10px;"> <b>JavaScript</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=py" height="40" style="margin-right: 10px;"> <b>Python</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 10px;"> <b>C++</b>  
 </p>
 
-### **Server-Side (Backend Technologies)**  
-<p align="left">
+### Server-Side (Backend Technologies)
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 10px;"> <b>.NET</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin-right: 10px;"> <b>Node.js</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="40" style="margin-right: 10px;"> <b>Express.js</b> &nbsp;
@@ -44,22 +44,22 @@ Software Engineer with **3 years of experience** in building **scalable solution
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" style="margin-right: 10px;"> <b>RabbitMQ</b>  
 </p>
 
-### **Client-Side (Frontend Technologies)**  
-<p align="left">
+### Client-Side (Frontend Technologies)  
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 10px;"> <b>TypeScript</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 10px;"> <b>Bootstrap</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 10px;"> <b>React.js</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin-right: 10px;"> <b>Redux</b>  
 </p>
 
-### **Databases**  
-<p align="left">
+### Databases
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right: 10px;"> <b>MySQL</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin-right: 10px;"> <b>MongoDB</b>  
 </p>
 
-### **Development Tools & DevOps**  
-<p align="left">
+### Development Tools & DevOps 
+<p align="left" style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://skillicons.dev/icons?i=git" height="40" style="margin-right: 10px;"> <b>Git</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin-right: 10px;"> <b>Docker</b> &nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin-right: 10px;"> <b>Postman</b>  

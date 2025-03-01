@@ -5,7 +5,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **Parallel & Distributed Systems, System Design, and Full-Stack Development**.  
+Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**.  
 
 ### 📚 Education  
 🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  
@@ -22,15 +22,20 @@ Software Engineer with **3 years of experience** in building **scalable solution
   <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
 </p>
 
-### Skills
+---
 
-##### Programming Languages 
+## 🚀 Skills
+
+### Programming Languages 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,py,cpp" height="40">
+</p>
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()
 
-##### Server-Side (Backend Technologies)
+### Server-Side (Backend Technologies)
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
@@ -38,7 +43,7 @@ Software Engineer with **3 years of experience** in building **scalable solution
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
 
-##### Client-Side (Frontend Technologies)
+### Client-Side (Frontend Technologies)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)

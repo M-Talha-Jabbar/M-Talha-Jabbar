@@ -8,22 +8,6 @@
 - Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains.
 - Passionate about **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**.   
 
-## 📚 Education  
-🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025, Lubbock, TX)*  
-🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022, Karachi, PK)*  
-
-## 🏢 Work Experience  
-💼 **Application Developer** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
-💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
-💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
-💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
-
-## ✉️ Get in Touch  
-<p align="left">
-  <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
-  <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
-</p>
-
 ## ⚙️ Technical Skills
 
 ### 💻 Programming Languages  
@@ -65,6 +49,16 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40"> 
 </p>
 
+## 🏢 Work Experience  
+💼 **Application Developer** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
+💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
+💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
+💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
+
+## 📚 Education  
+🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025, Lubbock, TX)*  
+🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022, Karachi, PK)*  
+
 ## 🧠 Industry Knowledge  
 - **Object-Oriented Programming (OOP)**  
 - **Multithreaded Programming**  
@@ -73,3 +67,9 @@
 - **RESTful APIs**  
 - **Message Queues**  
 - **Agile Methodologies**  
+
+## ✉️ Get in Touch  
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
+  <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
+</p>

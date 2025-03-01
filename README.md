@@ -5,17 +5,18 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. Passionate about **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**.  
+- **Scalable Systems & Impactful Contributions:** Software Engineer with **3 years of experience** in designing and building **scalable solutions**. I have contributed to **high-impact projects** across multiple domains, focusing on performance optimization and system efficiency.  
+- **Passionate About Modern Technologies:** I have a strong interest in **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**, constantly exploring innovative ways to enhance application scalability and reliability.  
 
-### 📚 Education  
-🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  
-🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022)*  
+## 📚 Education  
+🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025, Lubbock, TX)*  
+🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022, Karachi, PK)*  
 
-### 🏢 Work Experience  
-💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
-💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
-💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)*  
-💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021)*  
+## 🏢 Work Experience  
+💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
+💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
+💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
+💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
 
 ## 📩 Get in Touch  
 <p align="left">

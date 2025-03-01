@@ -26,7 +26,7 @@ Software Engineer with **3 years of experience** in building **scalable solution
 
 ## 🚀 Skills
 
-### **Programming Languages**  
+### Programming Languages  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <span style="display: flex; align-items: center;"> 
     <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 10px;"> <b>C#</b> 
@@ -42,7 +42,7 @@ Software Engineer with **3 years of experience** in building **scalable solution
   </span>
 </p>
 
-### **Server-Side (Backend Technologies)**  
+### Server-Side (Backend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <span style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 10px;"> <b>.NET</b> 
@@ -64,10 +64,41 @@ Software Engineer with **3 years of experience** in building **scalable solution
   </span>
 </p>
 
-### **Client-Side (Frontend Technologies)**  
+### Client-Side (Frontend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <span style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 10px;"> <b>TypeScript</b>
   </span>
   <span style="display: flex; align-items: center;">
-    <img src="https://skilli
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 10px;"> <b>Bootstrap</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 10px;"> <b>React.js</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin-right: 10px;"> <b>Redux</b>
+  </span>
+</p>
+
+### Databases  
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right: 10px;"> <b>MySQL</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin-right: 10px;"> <b>MongoDB</b>
+  </span>
+</p>
+
+### Development Tools & DevOps  
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=git" height="40" style="margin-right: 10px;"> <b>Git</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin-right: 10px;"> <b>Docker</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin-right: 10px;"> <b>Postman</b>
+  </span>
+</p>

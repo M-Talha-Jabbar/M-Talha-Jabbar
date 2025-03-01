@@ -18,8 +18,8 @@ Software Engineer with **3 years of experience** in building **scalable solution
 
 ## 📩 Get in Touch  
 <p align="left">
-  <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
   <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
+  <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
 </p>
 
 ---

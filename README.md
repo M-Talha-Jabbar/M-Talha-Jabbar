@@ -27,30 +27,33 @@ Software Engineer with **3 years of experience** in building **scalable solution
 ## 🚀 Skills
 
 ### **Programming Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"> **C#**  
-  <img src="https://skillicons.dev/icons?i=js" height="40"> **JavaScript**  
-  <img src="https://skillicons.dev/icons?i=py" height="40"> **Python**  
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"> **C++**  
-</p>
+- ![C#](https://skillicons.dev/icons?i=cs) **C#**  
+- ![JavaScript](https://skillicons.dev/icons?i=js) **JavaScript**  
+- ![Python](https://skillicons.dev/icons?i=py) **Python**  
+- ![C++](https://skillicons.dev/icons?i=cpp) **C++**  
 
 ### **Server-Side (Backend Technologies)**  
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40"> **.NET**  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"> **Node.js**  
-  <img src="https://skillicons.dev/icons?i=express" height="40"> **Express.js**  
-  <img src="https://skillicons.dev/icons?i=graphql" height="40"> **GraphQL**  
-  <img src="https://skillicons.dev/icons?i=redis" height="40"> **Redis**  
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40"> **RabbitMQ**  
-</p>
+- ![.NET](https://skillicons.dev/icons?i=dotnet) **.NET**  
+- ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**  
+- ![Express.js](https://skillicons.dev/icons?i=express) **Express.js**  
+- ![GraphQL](https://skillicons.dev/icons?i=graphql) **GraphQL**  
+- ![Redis](https://skillicons.dev/icons?i=redis) **Redis**  
+- ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq) **RabbitMQ**  
 
 ### **Client-Side (Frontend Technologies)**  
-<p>
-  <img src="https://skillicons.dev/icons?i=ts" height="40"> **TypeScript**  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> **Bootstrap**  
-  <img src="https://skillicons.dev/icons?i=react" height="40"> **React.js**  
-  <img src="https://skillicons.dev/icons?i=redux" height="40"> **Redux**  
-</p>
+- ![TypeScript](https://skillicons.dev/icons?i=ts) **TypeScript**  
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) **Bootstrap**  
+- ![React.js](https://skillicons.dev/icons?i=react) **React.js**  
+- ![Redux](https://skillicons.dev/icons?i=redux) **Redux**  
+
+### **Databases**  
+- ![MySQL](https://skillicons.dev/icons?i=mysql) **MySQL**  
+- ![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**  
+
+### **Development Tools & DevOps**  
+- ![Git](https://skillicons.dev/icons?i=git) **Git**  
+- ![Docker](https://skillicons.dev/icons?i=docker) **Docker**  
+- ![Postman](https://skillicons.dev/icons?i=postman) **Postman** 
 
 ### **Databases**  
 <p>

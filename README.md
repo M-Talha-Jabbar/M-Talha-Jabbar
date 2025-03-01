@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;Graduate+Assistant+-+Texas+Tech+University;Software+Engineer+Intern+-+NERSC,+Lawrence+Berkeley+Laboratory;Software+Engineer+-+Logiciel+Services;Master's+in+Software+Engineering+-+Texas+Tech+University;Bachelor's+in+Computer+Science+-+NUCES;Backend+Development+|+Distributed+Systems;Expertise+in+.NET,+Node.js,+Microservices;Databases:+MySQL,+MongoDB;DevOps:+Docker,+Git,+CI/CD">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer+|+Crafting+Scalable,+High-Impact+Solutions+|+3+Years+of+Experience">
 </p>
 
 ## 👨🏻‍💻 About Me  

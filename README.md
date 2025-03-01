@@ -5,8 +5,8 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-- **Scalable Systems & Impactful Contributions:** Software Engineer with **3 years of experience** in designing and building **scalable solutions**. I have contributed to **high-impact projects** across multiple domains, focusing on performance optimization and system efficiency.  
-- **Passionate About Modern Technologies:** I have a strong interest in **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**, constantly exploring innovative ways to enhance application scalability and reliability.  
+- Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains.
+- Passionate about **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**.   
 
 ## 📚 Education  
 🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025, Lubbock, TX)*  

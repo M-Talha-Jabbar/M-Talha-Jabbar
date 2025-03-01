@@ -2,20 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;Crafting+Scalable,+High-Impact+Solutions;3+Years+of+Experience">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬:+Parallel+&+Distributed+Systems,+System+Design,+Full-Stack+Development">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:+C#,+JavaScript,+Python,+C++">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐁𝐚𝐜𝐤𝐞𝐧𝐝:+.NET,+Node.js,+Express.js,+GraphQL,+Redis,+RabbitMQ,+SignalR,+Socket.IO">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:+Bootstrap,+React.js,+Redux">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:+MySQL,+Microsoft+SQL+Server,+Oracle+PL/SQL,+MongoDB">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭+𝐓𝐨𝐨𝐥𝐬:+Git,+Docker,+Postman">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲+𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞:+OOP,+Multithreaded+Programming,+Microservices,+Software+Design+Patterns,+RESTful+APIs,+Message+Queues,+Agile+Methodologies">
 </p>
 
 ## 👨🏻‍💻 About Me  

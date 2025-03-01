@@ -15,6 +15,7 @@ Software Engineer with **3 years of experience** in building **scalable solution
 💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
 💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)*  
+💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021)*  
 
 ## 📩 Get in Touch  
 <p align="left">
@@ -22,81 +23,43 @@ Software Engineer with **3 years of experience** in building **scalable solution
   <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
 </p>
 
-## 🚀 Skills
+## 🚀 Technical Skills
 
 ### Programming Languages  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="display: flex; align-items: center;"> 
-    <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 15px;"> <b>C#</b> 
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 15px;"> <b>JavaScript</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=py" height="40" style="margin-right: 15px;"> <b>Python</b> 
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 15px;"> <b>C++</b>
-  </span>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"> 
+  <img src="https://skillicons.dev/icons?i=js" height="40"> 
+  <img src="https://skillicons.dev/icons?i=py" height="40"> 
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"> 
 </p>
 
 ### Server-Side (Backend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 15px;"> <b>.NET</b> 
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin-right: 15px;"> <b>Node.js</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=express" height="40" style="margin-right: 15px;"> <b>Express.js</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin-right: 15px;"> <b>GraphQL</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin-right: 15px;"> <b>Redis</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" style="margin-right: 15px;"> <b>RabbitMQ</b>
-  </span>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40"> 
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"> 
+  <img src="https://skillicons.dev/icons?i=express" height="40"> 
+  <img src="https://skillicons.dev/icons?i=graphql" height="40"> 
+  <img src="https://skillicons.dev/icons?i=redis" height="40"> 
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40"> 
 </p>
 
 ### Client-Side (Frontend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 15px;"> <b>TypeScript</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 15px;"> <b>Bootstrap</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 15px;"> <b>React.js</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin-right: 15px;"> <b>Redux</b>
-  </span>
+  <img src="https://skillicons.dev/icons?i=ts" height="40"> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> 
+  <img src="https://skillicons.dev/icons?i=react" height="40"> 
+  <img src="https://skillicons.dev/icons?i=redux" height="40"> 
 </p>
 
 ### Databases  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right: 15px;"> <b>MySQL</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin-right: 15px;"> <b>MongoDB</b>
-  </span>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"> 
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"> 
 </p>
 
 ### Development Tools & DevOps  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=git" height="40" style="margin-right: 15px;"> <b>Git</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin-right: 15px;"> <b>Docker</b>
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin-right: 15px;"> <b>Postman</b>
-  </span>
+  <img src="https://skillicons.dev/icons?i=git" height="40"> 
+  <img src="https://skillicons.dev/icons?i=docker" height="40"> 
+  <img src="https://skillicons.dev/icons?i=postman" height="40"> 
 </p>

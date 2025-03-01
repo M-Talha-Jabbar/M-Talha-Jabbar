@@ -4,7 +4,17 @@
 Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains.
 𝐋𝐞𝐭’𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭: 𝘮𝘶𝘩𝘢𝘮𝘮𝘢𝘥𝘵𝘢𝘭𝘩𝘢61940@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 | 𝘮𝘶𝘫𝘢𝘣𝘣𝘢𝘳@𝘵𝘵𝘶.𝘦𝘥𝘶
 
-<!-- - ⚡ Fun fact: ... -->
+## 👨🏻‍💻 About Me  
+Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. 
+
+### 📚 Education  
+- 🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025)*  
+- 🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022)*  
+
+### 🏢 Work Experience  
+- 💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
+- 💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
+- 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)* 
 
 ### Get in Touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)

@@ -8,6 +8,7 @@ Software Engineer with 3 years of experience in building scalable solutions and 
 
 ### Socials
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark&perline=15)](mailto:muhammadtahlha61940@gmail.com)
 
 ### Skills
 

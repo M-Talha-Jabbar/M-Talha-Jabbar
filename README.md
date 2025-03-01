@@ -27,32 +27,47 @@ Software Engineer with **3 years of experience** in building **scalable solution
 ## 🚀 Skills
 
 ### **Programming Languages**  
-<p align="left" style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 10px;"> <b>C#</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 10px;"> <b>JavaScript</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=py" height="40" style="margin-right: 10px;"> <b>Python</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 10px;"> <b>C++</b>  
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="display: flex; align-items: center;"> 
+    <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 10px;"> <b>C#</b> 
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 10px;"> <b>JavaScript</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=py" height="40" style="margin-right: 10px;"> <b>Python</b> 
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 10px;"> <b>C++</b>
+  </span>
 </p>
 
 ### **Server-Side (Backend Technologies)**  
-<p align="left" style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 10px;"> <b>.NET</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin-right: 10px;"> <b>Node.js</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" style="margin-right: 10px;"> <b>Express.js</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin-right: 10px;"> <b>GraphQL</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin-right: 10px;"> <b>Redis</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" style="margin-right: 10px;"> <b>RabbitMQ</b>  
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 10px;"> <b>.NET</b> 
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin-right: 10px;"> <b>Node.js</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=express" height="40" style="margin-right: 10px;"> <b>Express.js</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin-right: 10px;"> <b>GraphQL</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin-right: 10px;"> <b>Redis</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" style="margin-right: 10px;"> <b>RabbitMQ</b>
+  </span>
 </p>
 
 ### **Client-Side (Frontend Technologies)**  
-<p align="left" style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 10px;"> <b>TypeScript</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 10px;"> <b>Bootstrap</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 10px;"> <b>React.js</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin-right: 10px;"> <b>Redux</b>  
-</p>
-
-### **Databases**  
-<p align="left" style="display: flex; align-items: center; flex-wrap: nowrap;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right: 10px;"> <b>MySQL</b> &nbsp;
-  <img src="htt
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 10px;"> <b>TypeScript</b>
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img src="https://skilli

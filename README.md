@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;Crafting+Scalable,+High-Impact+Solutions;3+Years+of+Experience">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;With+3+Years+of+Experience;In+Crafting+Scalable,+High-Impact+Solutions">
 </p>
 
 ## 👨🏻‍💻 About Me  
@@ -13,7 +13,7 @@
 🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022, Karachi, PK)*  
 
 ## 🏢 Work Experience  
-💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
+💼 **Application Developer** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
 💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
 💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  

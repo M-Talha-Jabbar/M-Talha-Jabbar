@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
-### 👨🏻‍💻 About me
-Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains.
-𝐋𝐞𝐭’𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭: 𝘮𝘶𝘩𝘢𝘮𝘮𝘢𝘥𝘵𝘢𝘭𝘩𝘢61940@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮 | 𝘮𝘶𝘫𝘢𝘣𝘣𝘢𝘳@𝘵𝘵𝘶.𝘦𝘥𝘶
-
 ## 👨🏻‍💻 About Me  
 Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains. 
 
@@ -15,6 +11,9 @@ Software Engineer with **3 years of experience** in building **scalable solution
 - 💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present)*  
 - 💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024)*  
 - 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023)* 
+
+### 📩 Let’s Connect  
+📧 muhammadtalha61940@gmail.com | mujabbar@ttu.edu 
 
 ### Get in Touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-talha-jabbar/)

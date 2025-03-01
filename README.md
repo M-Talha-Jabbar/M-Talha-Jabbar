@@ -18,15 +18,15 @@
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
 💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
 
-## 📩 Get in Touch  
+## 📧 Get in Touch  
 <p align="left">
   <a href="https://www.linkedin.com/in/m-talha-jabbar/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a> 
   <a href="mailto:muhammadtalha61940@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"></a>  
 </p>
 
-## 🚀 Technical Skills
+## ⚙️ Technical Skills
 
-### Programming Languages  
+### 💻 Programming Languages  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=cs" height="40"> 
   <img src="https://skillicons.dev/icons?i=js" height="40"> 
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40"> 
 </p>
 
-### Server-Side (Backend Technologies)  
+### 🌐 Server-Side (Backend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40"> 
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"> 
@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40"> 
 </p>
 
-### Client-Side (Frontend Technologies)  
+### 🎨 Client-Side (Frontend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=ts" height="40"> 
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> 
@@ -52,13 +52,13 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40"> 
 </p>
 
-### Databases  
+### 🗃️ Databases  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=mysql" height="40"> 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"> 
 </p>
 
-### Development Tools & DevOps  
+### 🛠️ Development Tools & DevOps  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=git" height="40"> 
   <img src="https://skillicons.dev/icons?i=docker" height="40"> 

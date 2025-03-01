@@ -28,39 +28,39 @@ Software Engineer with **3 years of experience** in building **scalable solution
 
 ### **Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40"> <b>C#</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40"> <b>JavaScript</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" height="40"> <b>Python</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"> <b>C++</b>  
+  <img src="https://skillicons.dev/icons?i=cs" height="40" style="margin-right: 10px;"> <b>C#</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 10px;"> <b>JavaScript</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="40" style="margin-right: 10px;"> <b>Python</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 10px;"> <b>C++</b>  
 </p>
 
 ### **Server-Side (Backend Technologies)**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40"> <b>.NET</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"> <b>Node.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40"> <b>Express.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql" height="40"> <b>GraphQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="40"> <b>Redis</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40"> <b>RabbitMQ</b>  
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" style="margin-right: 10px;"> <b>.NET</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin-right: 10px;"> <b>Node.js</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" style="margin-right: 10px;"> <b>Express.js</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" style="margin-right: 10px;"> <b>GraphQL</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="40" style="margin-right: 10px;"> <b>Redis</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" style="margin-right: 10px;"> <b>RabbitMQ</b>  
 </p>
 
 ### **Client-Side (Frontend Technologies)**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40"> <b>TypeScript</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> <b>Bootstrap</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40"> <b>React.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" height="40"> <b>Redux</b>  
+  <img src="https://skillicons.dev/icons?i=ts" height="40" style="margin-right: 10px;"> <b>TypeScript</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 10px;"> <b>Bootstrap</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 10px;"> <b>React.js</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="40" style="margin-right: 10px;"> <b>Redux</b>  
 </p>
 
 ### **Databases**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"> <b>MySQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"> <b>MongoDB</b>  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin-right: 10px;"> <b>MySQL</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin-right: 10px;"> <b>MongoDB</b>  
 </p>
 
 ### **Development Tools & DevOps**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40"> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40"> <b>Docker</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="40"> <b>Postman</b>  
+  <img src="https://skillicons.dev/icons?i=git" height="40" style="margin-right: 10px;"> <b>Git</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40" style="margin-right: 10px;"> <b>Docker</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin-right: 10px;"> <b>Postman</b>  
 </p>

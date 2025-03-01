@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer+|+Backend+Developer;Building+Scalable+and+Efficient+Systems;Passionate+about+APIs,+Microservices,+and+Cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;Graduate+Assistant+-+Texas+Tech+University;Software+Engineer+Intern+-+NERSC,+Lawrence+Berkeley+Laboratory;Software+Engineer+-+Logiciel+Services;Master's+in+Software+Engineering+-+Texas+Tech+University;Bachelor's+in+Computer+Science+-+NUCES;Backend+Development+|+Distributed+Systems;Expertise+in+.NET,+Node.js,+Microservices;Databases:+MySQL,+MongoDB;DevOps:+Docker,+Git,+CI/CD">
 </p>
 
 ## 👨🏻‍💻 About Me  
@@ -14,7 +14,7 @@
 
 ## 🏢 Work Experience  
 💼 **Graduate Assistant** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
-💼 **Software Engineer Intern** – *NERSC, Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
+💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
 💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
 

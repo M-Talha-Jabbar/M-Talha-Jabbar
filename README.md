@@ -50,7 +50,7 @@
 </p>
 
 ## 🏢 Work Experience  
-💼 **Application Developer** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
+💼 **Full Stack Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
 💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
 💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
 💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  

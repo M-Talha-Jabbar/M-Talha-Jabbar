@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"> 
 </p>
 
-### 🛠️ Development Tools & DevOps  
+### 🛠️ Development Tools 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=git" height="40"> 
   <img src="https://skillicons.dev/icons?i=docker" height="40"> 
@@ -49,14 +49,14 @@
 </p>
 
 ## 🏢 Work Experience  
-💼 **Full Stack Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems (12/2023 - Present, Lubbock, TX)*  
-💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (05/2024 - 08/2024, Berkeley, CA)*  
-💼 **Software Engineer** – *Logiciel Services (06/2022 - 07/2023, Karachi, PK)*  
-💼 **Software Engineer Intern** – *Shispare (07/2021 - 09/2021, Karachi, PK)*  
+💼 **Full Stack Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems (Dec 2023 - Present, Lubbock, TX)*  
+💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory (May 2024 - Aug 2024, Berkeley, CA)*  
+💼 **Software Engineer** – *Logiciel Services (June 2022 - July 2023, Karachi, Pakistan)*  
+💼 **Software Engineer Intern** – *Shispare (July 2021 - Sept 2021, Karachi, Pakistan)*  
 
 ## 📚 Education  
-🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (08/2023 - 05/2025, Lubbock, TX)*  
-🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (08/2018 - 06/2022, Karachi, PK)*  
+🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University (Aug 2023 - May 2025, Lubbock, TX)*  
+🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences (Aug 2018 - June 2022, Karachi, Pakistan)*  
 
 ## 🧠 Industry Knowledge  
 - **Object-Oriented Programming (OOP)**  

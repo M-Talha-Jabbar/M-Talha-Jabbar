@@ -6,6 +6,7 @@
 
 ## 👨🏻‍💻 About Me  
 - Software Engineer with **3 years of experience** in building **scalable solutions** and contributing to **high-impact projects** across diverse domains.
+
 - Passionate about **Parallel & Distributed Systems**, **System Design**, and **Full-Stack Development**.   
 
 ## ⚙️ Technical Skills
@@ -49,18 +50,24 @@
 </p>
 
 ## 🏢 Work Experience  
-💼 **Full Stack Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems* (Dec 2023 - Present, Lubbock, TX)
+💼 **Full Stack Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems* 
+(Dec 2023 - Present, Lubbock, TX)
 
-💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* (May 2024 - Aug 2024, Berkeley, CA) 
+💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* 
+(May 2024 - Aug 2024, Berkeley, CA) 
 
-💼 **Software Engineer** – *Logiciel Services* (June 2022 - July 2023, Karachi, Pakistan) 
+💼 **Software Engineer** – *Logiciel Services* 
+(June 2022 - July 2023, Karachi, Pakistan) 
 
-💼 **Software Engineer Intern** – *Shispare* (July 2021 - Sept 2021, Karachi, Pakistan)
+💼 **Software Engineer Intern** – *Shispare*
+(July 2021 - Sept 2021, Karachi, Pakistan)
 
 ## 📚 Education  
-🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University* (Aug 2023 - May 2025, Lubbock, TX)
+🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University* 
+(Aug 2023 - May 2025, Lubbock, TX)
 
-🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences* (Aug 2018 - June 2022, Karachi, Pakistan) 
+🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences* 
+(Aug 2018 - June 2022, Karachi, Pakistan) 
 
 ## 🧠 Industry Knowledge  
 - **Object-Oriented Programming (OOP)**  

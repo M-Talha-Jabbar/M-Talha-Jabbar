@@ -31,9 +31,11 @@
 
 ### 🎨 Client-Side (Frontend Technologies)  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> 
   <img src="https://skillicons.dev/icons?i=react" height="40"> 
-  <img src="https://skillicons.dev/icons?i=redux" height="40"> 
+  <img src="https://skillicons.dev/icons?i=redux" height="40">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> 
+  <img src="https://skillicons.dev/icons?i=html" height="40"> 
+  <img src="https://skillicons.dev/icons?i=css" height="40">
 </p>
 
 ### 🗃️ Databases  

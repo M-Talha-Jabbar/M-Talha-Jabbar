@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Talha Jabbar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;With+2%2B+Years+of+Experience;Crafting+Scalable,+High-Impact+Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Engineer;With+3+Years+of+Experience;Crafting+Scalable,+High-Impact+Solutions">
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with 2+ years of experience in building scalable solutions and contributing to high-impact projects across diverse domains. Passionate about Parallel & Distributed Systems, System Design, and Full-Stack Development.  
+Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains. Passionate about Parallel & Distributed Systems, System Design, and Full-Stack Development.  
 
 ## ⚙️ Technical Skills
 

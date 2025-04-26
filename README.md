@@ -5,7 +5,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with 3 years of experience in building scalable solutions and contributing to high-impact projects across diverse domains. Passionate about Parallel & Distributed Systems, System Design, and Full-Stack Development.  
+Software Engineer with 3 years of experience building scalable solutions and contributing to high-impact projects across diverse domains.
 
 ## ⚙️ Technical Skills
 

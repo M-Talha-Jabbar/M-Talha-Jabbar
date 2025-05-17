@@ -50,7 +50,7 @@ Software Engineer with 3 years of experience building scalable solutions and con
 </p>
 
 ## 🏢 Work Experience  
-💼 **Application Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems* (Dec 2023 - Present, Lubbock, TX)
+💼 **Graduate Assistant (Application Developer)** – *Texas Tech University System - Information Systems* (Dec 2023 - May 2025, Lubbock, TX)
 
 💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* (May 2024 - Aug 2024, Berkeley, CA) 
 

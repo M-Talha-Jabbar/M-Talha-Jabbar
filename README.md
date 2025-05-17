@@ -59,7 +59,7 @@ Software Engineer with 3 years of experience building scalable solutions and con
 💼 **Software Engineer Intern** – *Shispare* (July 2021 - Sept 2021, Karachi, Pakistan)
 
 ## 📚 Education  
-🎓 **Master of Science in Computer Software Engineering** – *Texas Tech University* (Aug 2023 - May 2025, Lubbock, TX)
+🎓 **Master of Science in Software & Security Engineering** – *Texas Tech University* (Aug 2023 - May 2025, Lubbock, TX)
 
 🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences* (Aug 2018 - June 2022, Karachi, Pakistan) 
 

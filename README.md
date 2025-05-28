@@ -5,9 +5,9 @@
 </p>
 
 ## 👨🏻‍💻 About Me  
-Software Engineer with 3 years of experience building scalable solutions and contributing to high-impact projects across diverse domains.
+I have a strong background in application development, having worked on large-scale software systems across various domains, including financial services, high-performance computing, and warehouse management. My experience includes building APIs, developing real-time systems, and working with event-driven architectures that support thousands of users. I also have expertise in AWS Cloud and am currently exploring AI agents to automate business workflows and processes.
 
-## ⚙️ Technical Skills
+## ⚙️ Technical Skills 
 
 ### 💻 Programming Languages  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">

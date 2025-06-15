@@ -50,7 +50,7 @@ I have a strong background in application development, having worked on large-sc
 </p>
 
 ## 🏢 Work Experience  
-💼 **Graduate Assistant (Application Developer)** – *Texas Tech University System - Information Systems* (Dec 2023 - May 2025, Lubbock, TX)
+💼 **Application Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems* (Dec 2023 - May 2025, Lubbock, TX)
 
 💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* (May 2024 - Aug 2024, Berkeley, CA) 
 

@@ -52,11 +52,11 @@ I have a strong background in application development, having worked on large-sc
 ## 🏢 Work Experience  
 💼 **Application Developer (Graduate Assistant)** – *Texas Tech University System - Information Systems* (Dec 2023 - May 2025, Lubbock, TX)
 
-💼 **Software Engineer Intern** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* (May 2024 - Aug 2024, Berkeley, CA) 
+💼 **Software Engineer Intern (Research Assistant)** – *National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley Laboratory* (May 2024 - Aug 2024, Berkeley, CA) 
 
 💼 **Software Engineer** – *Logiciel Services* (June 2022 - July 2023, Karachi, Pakistan) 
 
-💼 **Software Engineer Intern** – *Shispare* (July 2021 - Sept 2021, Karachi, Pakistan)
+💼 **Software Developer** – *VigoAsia* (Jan 2021 - May 2022, Bangkok, Thailand)
 
 ## 📚 Education  
 🎓 **Master of Science in Software & Security Engineering** – *Texas Tech University* (Aug 2023 - May 2025, Lubbock, TX)

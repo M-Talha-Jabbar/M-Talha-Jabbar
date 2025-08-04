@@ -58,11 +58,6 @@ I have a strong background in application development, having worked on large-sc
 
 💼 **Software Engineer** – *VigoAsia* (Jan 2021 - May 2022, Bangkok, Thailand)
 
-## 📚 Education  
-🎓 **Master of Science in Software & Security Engineering** – *Texas Tech University* (Aug 2023 - May 2025, Lubbock, TX)
-
-🎓 **Bachelor of Science in Computer Science** – *National University of Computer and Emerging Sciences* (Aug 2018 - June 2022, Karachi, Pakistan) 
-
 ## 🧠 Industry Knowledge  
 - **Object-Oriented Programming (OOP)**  
 - **Multithreaded Programming**  
